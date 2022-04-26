@@ -1,0 +1,3 @@
+/home/arpansahu/CLionProjects/FAANG/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arpansahu/CLionProjects/FAANG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/arpansahu/CLionProjects/FAANG/cmake-build-debug/CMakeFiles/FAANG.dir
